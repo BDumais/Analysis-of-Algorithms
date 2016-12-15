@@ -1,0 +1,2 @@
+Unfortunately, I was unable to get the heap structure working as per lecture notes. I suspect the issue stems from attempting to convert between 0 and 1 indexed
+notation (ie lecture notes start at index 1, java at 0), but I could not get this to work due to lack of time.
